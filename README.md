@@ -210,6 +210,20 @@ print(df.head(2))
 df.info()
 
 df.describe()
+# OUTPUT:
+
+![ds 5_merged_page-0001](https://github.com/user-attachments/assets/46a989d6-5abd-4096-bc81-238c14009312)
+![ds 5_merged_page-0002](https://github.com/user-attachments/assets/a24933fd-c8bb-4d42-a8af-b1a4df69342b)
+![ds 5_merged_page-0003](https://github.com/user-attachments/assets/5e34fa1b-ca3d-45aa-9bbb-6fca7e6df1ac)
+![ds 5_merged_page-0004](https://github.com/user-attachments/assets/17d24c9f-782e-4133-87fb-0951d0b31a07)
+![ds 5_merged_page-0005](https://github.com/user-attachments/assets/e9b2219b-c2bb-4bf3-bb84-b6c3f32875e3)
+![ds 5_merged_page-0006](https://github.com/user-attachments/assets/f6ecaff3-0d63-4adb-9367-057c0837e958)
+![ds 5_merged_page-0007](https://github.com/user-attachments/assets/57f2d164-2acc-4156-8179-2857b1422a97)
+![ds 5_merged_page-0008](https://github.com/user-attachments/assets/31b95c00-31a2-4490-bd14-8cd5437ba359)
+![ds 5_merged_page-0009](https://github.com/user-attachments/assets/40b2171a-cae8-4839-9e81-7c80c5a02d79)
+
+
+
 
 # Result:
 Hence the lab activity are completed successfully
