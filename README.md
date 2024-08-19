@@ -226,4 +226,4 @@ df.describe()
 
 
 # Result:
-Hence the lab activity are completed successfully
+Hence the lab activity are completed successfully 
