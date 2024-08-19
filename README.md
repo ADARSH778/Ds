@@ -1,7 +1,7 @@
 # Experiment Lab Introduction
-### Name : Ashwin Akash M
-### Reference Number : 212223230024
-### Department : AIDS
+### Name : ADARSH CHOWDARY REDDINENI
+### Reference Number : 212223040166
+### Department : CSE
 # Codes of Lab Introduction:
 ```
 1. Write a Python program to select the 'name' and 'score' columns from the following DataFrame.
